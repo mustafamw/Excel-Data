@@ -1,0 +1,10 @@
+user_ID,provider_name,product_type,product_variation,flexible,who,premium_who,cover_level,premium_cover_level,premium_core,gross
+1,dental provider,7,1,TRUE,2,1,1,1,123,121
+2,dental provider,7,1,TRUE,2,1,1,1,123,121
+3,dental provider,7,1,TRUE,2,1,1,1,123,121
+4,dental provider,7,1,TRUE,2,1,1,1,123,121
+5,dental provider,7,1,TRUE,2,1,1,1,123,121
+6,dental provider,7,1,TRUE,2,1,1,1,123,121
+7,dental provider,7,1,TRUE,2,1,1,1,123,121
+8,dental provider,7,1,TRUE,2,1,1,1,123,121
+9,dental provider,7,1,TRUE,2,1,1,1,123,121

@@ -1,0 +1,11 @@
+user_ID,provider_name,product_type,product_variation,who,premium_who,cover_level,pemium_cover_level,gross,premium_core
+1,cp provider,6,1,1,1,2,2,121,123
+2,cp provider,6,1,1,1,3,3,321,234
+3,cp provider,6,1,0,0,2,2,121,123
+4,cp provider,6,1,1,1,2,2,121,123
+5,cp provider,6,1,1,1,2,2,121,123
+6,cp provider,6,1,1,1,1,1,121,123
+7,cp provider,6,1,0,0,2,2,789,123
+8,cp provider,6,1,1,1,2,2,121,789
+9,cp provider,6,1,1,1,1,1,121,123
+10,cp provider,6,1,1,1,2,2,121,123

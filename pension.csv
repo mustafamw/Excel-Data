@@ -1,0 +1,11 @@
+user_id,provider_name,product_type,product_variation,start_date,end_date,fund_value,valuation_date,employee_contribution,employer_contribution,employee_contribution_percent,employer_contribution_percent,min_employee_contribution_percent,max_employee_contribution_percent,min_employer_contribution_percent,max_employer_contribution_percent,tax_saving,wish_expression_link,list_fund,fund_selection
+1,scottish widows,2,1,12.04.2014,,10000,23.12.2015,29.16,29.16,1,1,0,5,0,5,1,www.welink.com,,Core Lifestyle Portofolio|100
+2,scottish widows,2,1,12.04.2014,,0,23.12.2015,0,0,5,6,0,5,0,5,2,www.welink.com,,Core Lifestyle Portofolio|100
+3,scottish widows,2,1,12.04.2014,,0,23.12.2015,0,0,5,6,0,5,0,5,1,www.welink.com,,Core Lifestyle Portofolio|100
+4,scottish widows,2,1,12.04.2014,,0,23.12.2015,0,0,5,6,0,5,0,5,1,www.welink.com,,Core Lifestyle Portofolio|100
+5,scottish widows,2,1,12.04.2014,,0,23.12.2015,0,0,5,6,0,5,0,5,2,www.welink.com,,Core Lifestyle Portofolio|100
+6,scottish widows,2,1,12.04.2014,,0,23.12.2015,0,0,5,6,0,5,0,5,1,www.welink.com,,Core Lifestyle Portofolio|100
+7,scottish widows,2,1,12.04.2014,,0,23.12.2015,0,0,5,6,0,5,0,5,1,www.welink.com,,Core Lifestyle Portofolio|100
+8,scottish widows,2,1,12.04.2014,,0,23.12.2015,0,0,5,6,0,5,0,5,2,www.welink.com,,Core Lifestyle Portofolio|100
+9,scottish widows,2,1,12.04.2014,,0,23.12.2015,0,0,5,6,0,5,0,5,2,www.welink.com,,Core Lifestyle Portofolio|100
+10,scottish widows,2,1,12.04.2014,,0,23.12.2015,0,0,5,6,0,5,0,5,2,www.welink.com,,Core Lifestyle Portofolio|100

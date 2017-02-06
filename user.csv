@@ -1,0 +1,12 @@
+user_id,employee_id,email,username,password,dob,android_id,android_gcm,android_pin,iphone_id,iphone_gcm,iphone_pin,status,roles
+1,10002,mustafa.mohamed@ernestgrant.com,admin,password,07.06.2015,1,2,3,4,5,6,1,"administration,authenticated,leaver"
+2,10003,barry@egb.com,barry@egb.com,password1,08.07.1976,1,2,3,4,5,6,1,"leaver,holiday_admin"
+3,10004,mark@egb.com,mark@egb.com,password2,09.01.1976,1,2,3,4,5,6,1,authenticated
+4,10005,ian@egb.com,ian@egb.com,password3,07.06.1976,1,2,3,4,5,6,1,authenticated
+5,10006,john@egb.com,john@egb.com,password4,07.06.1800,1,2,3,4,5,6,1,leaver
+6,10007,simon@egb.com,simon@egb.com,password5,07.06.1976,1,2,3,4,5,6,1,authenticated
+7,10008,tim@egb.com,tim@egb.com,password6,07.06.1976,1,2,3,4,5,6,1,leaver
+8,10009,carl@egb.com,carl@egb.com,password7,07.06.1976,1,2,3,4,5,6,1,leaver
+9,10010,sue@egb.com,sue@egb.com,password8,07.06.1976,1,2,3,4,5,6,1,leaver
+10,10011,bob@egb.com,bob@egb.com,password9,07.06.1976,1,2,3,4,5,6,1,authenticated
+11,10012,snop@egb.com,snop@egb.com,password9,07.06.2016,1,2,3,4,5,6,1,"authenticated,holiday_admin"

@@ -1,0 +1,10 @@
+user_ID,provider_name,product_type,product_variation,flexible,who,premium_who,cover_level,premium_cover_level,where,excess,premium_core,gross
+1,pmi provider,5,1,TRUE,1,1,1,1,1,100,123,121
+2,pmi provider,5,1,TRUE,1,2,1,1,1,100,123,121
+3,pmi provider,5,1,FALSE,1,2,1,1,1,100,123,121
+4,pmi provider,5,1,FALSE,1,2,1,1,1,100,123,121
+5,pmi provider,5,1,TRUE,1,3,1,1,1,100,123,121
+6,pmi provider,5,1,TRUE,1,3,1,1,1,100,123,121
+7,pmi provider,5,1,FALSE,1,4,1,1,1,100,123,121
+8,pmi provider,5,1,TRUE,1,2,1,1,1,100,123,121
+9,pmi provider,5,1,TRUE,1,1,1,1,1,100,123,121

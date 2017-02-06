@@ -1,0 +1,11 @@
+user_ID,provider_name,product_type,product_variation,income_percentage,core_percentage,deferred_period,term,flexible,free_cover_limit,payment_period,premium_core,gross,window_salary
+1,friends provident,4,1,65,55,0,5,TRUE,154515,1,123,121,32000
+2,friends provident,4,1,55,55,0,5,TRUE,154515,1,123,121,32000
+3,friends provident,4,1,55,55,0,5,TRUE,154515,1,123,121,32000
+4,friends provident,4,1,55,55,0,5,FALSE,154515,1,123,121,32000
+5,friends provident,4,1,55,55,0,5,TRUE,154515,1,123,121,32000
+6,friends provident,4,1,55,55,0,5,FALSE,154515,1,123,121,32000
+7,friends provident,4,1,55,55,0,5,TRUE,154515,1,123,121,32000
+8,friends provident,4,1,55,55,0,5,FALSE,154515,1,123,121,32000
+9,friends provident,4,1,55,55,0,5,TRUE,154515,1,123,121,32000
+10,friends provident,4,1,55,55,0,5,TRUE,154515,1,123,121,32000

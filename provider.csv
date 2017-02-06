@@ -1,0 +1,12 @@
+provider_name,product_type,product_variation,web_link,icon_link,bumf
+bupa,1,1,www.bupa.com,www.bupa.com/icon,BUPA bumf
+scottish widows,2,1,www.scottishwidows.com,www.scottishwidows.com/icon,scottish widows bumf
+aegon,3,1,www.aegon.com,www.aegon.com/icon,aegon bumf
+friends provident,4,1,www.fp.com,www.fp.com/icon,friends prov bumf
+pmi provider,5,1,www.pmi.com,www.pmi.com/icon,pmi prov bumf
+CP provider,6,1,www.cpp.com,www.cpp.com/icon,cp provider bumf
+dental provider,7,1,www.dental.com,www.dental.com/icon,dental provider bumf
+health provider,8,1,www.health.com,www.health.com/icon,health provider bumf
+ccv provider,9,1,www.ccv.com,www.ccv.com/icon,ccv bumf
+ctw provider,10,1,www.ctw.com,www.ctw.com/icon,ctw bumf
+car provider,11,1,www.car.com,www.car.com/icon,car bumf

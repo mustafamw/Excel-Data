@@ -1,0 +1,11 @@
+user_ID,provider_name,product_type,product_variation,calculate,sum_assured,core_multiple,flexible,flex_multiple,flex_max_multiple,free_cover_limit,cap,premium_core,gross,wish_expression_link,salary
+1,bupa,1,1,TRUE,30000,2,TRUE,3,4,1000000,1000000.00,123,121,www.welink.com,32000
+2,bupa,1,1,FALSE,30000,2,FALSE,3,4,1000000,1000000.00,123,121,www.welink.com,32000
+3,bupa,1,1,TRUE,30000,2,TRUE,3,4,1000000,1000000.00,123,121,www.welink.com,32000
+4,bupa,1,1,TRUE,30000,2,FALSE,3,4,1000000,1000000.00,123,121,www.welink.com,32000
+5,bupa,1,1,FALSE,30000,2,FALSE,3,4,1000000,1000000.00,123,121,www.welink.com,32000
+6,bupa,1,1,TRUE,30000,2,FALSE,3,4,1000000,1000000.00,123,121,www.welink.com,32000
+7,bupa,1,1,TRUE,30000,2,TRUE,3,4,1000000,1000000.00,123,121,www.welink.com,32000
+8,bupa,1,1,FALSE,30000,2,TRUE,3,4,1000000,1000000.00,123,121,www.welink.com,32000
+9,bupa,1,1,TRUE,30000,2,FALSE,3,4,1000000,1000000.00,123,121,www.welink.com,32000
+10,bupa,1,1,TRUE,30000,2,FALSE,3,4,1000000,1000000.00,123,121,www.welink.com,32000
